@@ -1,0 +1,14 @@
+
+UNIT - I
+Basics of Compiler Design
+Introduction to Compiler, Translator, Interpreter and Assembler. Importance of Compiler, Language processor, Applications of language processors, Definition- Structure-Working of compiler,
+Difference
+between Compiler & Interpreter, Compilation of source code into target language, Cousins of compiler, Types of compiler,
+UNIT - II
+Lexical Analysis
+Introduction, The Role of the Lexical Analyzer, Specification of Tokens, Recognition of Tokens, Input Buffering, elementary scanner design and its implementation (Lex), Applying concepts of Finite Automata for recognition of tokens
+UNIT - III
+Syntax Analysis
+Introduction, parsing methods.
+Parser and CFG (Context Free Grammars),
+Understanding
